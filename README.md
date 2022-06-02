@@ -1,4 +1,4 @@
-# ExploreAIQuiz
+### ExploreAIQuiz
 
 ## Python (Programming Language)
 
